@@ -1,7 +1,22 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal-mistakes
 title: Edern Le Bot
 description: Bookmark this to keep an eye on my project updates!
 permalink: /:categories/:title/
+
+
+
+author:
+  name: "Edern Le Bot"
+  #avatar: "/assets/profile.jpg"  # ← put your photo here
+  bio: "PhD candidate in Medical Imaging"
+  location: "Bordeaux, France"
+  employer:
+    name: "LaBRI, University of Bordeaux"
+    url: "https://in2brain.labri.fr/"
+  email: "elebot@u-bordeaux.fr"
+  github: "elebot4"
+  googlescholar: "https://scholar.google.com/citations?user=_Lx-WPoAAAAJ"
+  linkedin: "https://www.linkedin.com/in/elebot4"
 
 # Rendering options
 
@@ -25,44 +40,3 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-
-# Site Author
-author:
-  name             : "Edern Le Bot"
-  avatar           : 
-  bio              : "PhD Candidate"
-  location         : "Bordeaux, France"
-  employer         :
-    name              : "LaBRI"
-    url               : "https://in2brain.labri.fr/"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_Lx-WPoAAAAJ"
-  email            :  "elebot@u-bordeaux.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  dblp             : #"https://dblp.org/pid/303/8930.html"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "elebot4"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : #"https://orcid.org/0000-0002-5043-3221"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
