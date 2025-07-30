@@ -1,5 +1,15 @@
 
-## Hi there 👋
+## About me 
+
+## Publications 
+
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/elebot4/elebot4/main/publications.bib&jsonp=1"></script>
+
+## Talks 
+
+## Contact infos
+
+elebot@u-bordeaux.fr
 
 <!--
 **elebot4/elebot4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
