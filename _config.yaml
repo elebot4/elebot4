@@ -1,9 +1,11 @@
-theme: minimal-mistakes-jekyll
 title: Edern Le Bot
 description: Bookmark this to keep an eye on my project updates!
 permalink: /:categories/:title/
 
-
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 author:
   name: "Edern Le Bot"
