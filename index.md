@@ -35,3 +35,18 @@ During my PhD, I contributed to undergraduate teaching at ENSEIRB-MATMECA (Borde
 
 You can reach me at [elebot@u-bordeaux.fr](mailto:elebot@u-bordeaux.fr).
 
+
+<style>
+.bibbase_paper,
+.bibbase_group,
+.bibbase_author,
+.bibbase_title,
+.bibbase_venue,
+.bibbase_note,
+.bibbase_year {
+  font-family: inherit !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  color: inherit !important;
+}
+</style>
