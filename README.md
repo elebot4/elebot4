@@ -1,6 +1,6 @@
 # Edern Le Bot
 
-Hi! I'm a PhD candidate in Medical Imaging at the University of Bordeaux, working in the [In2Brain team](https://in2brain.labri.fr/) at LaBRI. I'm currently wrapping up my thesis on fine-grained brain segmentation using FLAIR MRI. My research focused on developing robust, clinically applicable segmentation methods that work even in the presence of disease-related anomalies.
+I'm a PhD candidate in Medical Imaging at the University of Bordeaux, working in the [In2Brain team](https://in2brain.labri.fr/) at LaBRI. I'm currently wrapping up my thesis on fine-grained brain segmentation using FLAIR MRI. My research focused on developing robust, clinically applicable segmentation methods that work even in the presence of disease-related anomalies.
 
 Note that most of the code from my PhD is not publicly released at this time.
 
