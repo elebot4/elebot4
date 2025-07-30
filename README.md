@@ -9,7 +9,7 @@ Note that most of the code from my PhD is not publicly released at this time.
 
 -------
 
-Feel free to reach out via [elebot@u-bordeaux.fr](mailto:elebot@u-bordeaux.fr, or find me elsewhere:
+Feel free to reach out via [elebot@u-bordeaux.fr](mailto:elebot@u-bordeaux.fr), or find me elsewhere:
 
 - 🌐 [Personal website](https://elebot4.github.io/elebot4)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elebot4/)
