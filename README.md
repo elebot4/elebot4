@@ -1,7 +1,4 @@
 
-theme: jekyll-theme-minimal
-title: Edern Le Bot
-
 ## Hi there 👋
 
 <!--
