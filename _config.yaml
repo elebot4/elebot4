@@ -15,8 +15,10 @@ author:
   employer:
     name: "in2brain @ University of Bordeaux"
     url: "https://in2brain.labri.fr/"
-  email: "elebot@u-bordeaux.fr"
   links: 
+    - label: "In2Brain Team @ Université de Bordeaux"
+      icon: "fas fa-university"
+      url: "https://in2brain.labri.fr/"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=_Lx-WPoAAAAJ"
