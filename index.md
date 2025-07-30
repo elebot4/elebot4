@@ -3,7 +3,7 @@
 
 ## Publications 
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/elebot4/elebot4/main/publications.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/elebot4/elebot4/main/publications.bib&jsonp=1&groupby=year&theme=plain&noTitle=true&sort=year&style=apa&nocache=1&noMenu=true&highlight=0"></script>
 
 ## Talks 
 
