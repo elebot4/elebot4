@@ -13,12 +13,22 @@ author:
   bio: "PhD candidate in Medical Imaging"
   location: "Bordeaux, France"
   employer:
-    name: "LaBRI, University of Bordeaux"
+    name: "in2brain @ University of Bordeaux"
     url: "https://in2brain.labri.fr/"
   email: "elebot@u-bordeaux.fr"
-  github: "elebot4"
-  googlescholar: "https://scholar.google.com/citations?user=_Lx-WPoAAAAJ"
-  linkedin: "https://www.linkedin.com/in/elebot4"
+  links: 
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=_Lx-WPoAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/elebot4"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/elebot4/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:elebot@u-bordeaux.fr"
 
 # Rendering options
 
@@ -32,13 +42,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true
-
-# Staticman
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
