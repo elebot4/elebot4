@@ -5,7 +5,7 @@ I'm a PhD candidate in Medical Imaging at the University of Bordeaux, working in
 Note that most of the code from my PhD is not publicly released at this time.
 
 📄 You can find a summary of my academic work and teaching here:  
-[https://elebot4.github.io/elebot4](https://elebot4.github.io/elebot4)
+[https://elebot4.github.io/elebot4](https://elebot4.github.io)
 
 -------
 
